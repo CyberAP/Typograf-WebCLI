@@ -5,7 +5,7 @@ Not to be confused with [typograf](https://www.npmjs.com/package/typograf) nor [
 
 ## Usage
 ```
-npx typograf-webcli "Это "Типограф"?."
+npx typograf-webcli "- Это \"Типограф\"?."
 ```
 
 ## Options
