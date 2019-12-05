@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 const program = require('commander');
 const soap = require('soap');
 const url = "http://typograf.artlebedev.ru/webservices/typograf.asmx";
