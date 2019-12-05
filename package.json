@@ -1,9 +1,11 @@
 {
   "name": "typograf-webcli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "CLI for Artlebedev's Typograf",
   "main": "index.js",
+  "bin": "./index.js",
   "scripts": {
+    "run": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
